@@ -11998,5 +11998,17 @@
         "color": "lime",
         "category": "automotive",
         "discount": 21
+    },
+    {
+        "id": 1001,
+        "title": "Kindle Paperwhite",
+        "image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691056086962-headphone.jpg",
+        "price": 4800,
+        "description": "Description for Bose SoundLink Bluetooth Speaker.",
+        "brand": "AKG",
+        "model": "Model 1000",
+        "color": "lime",
+        "category": "automotive",
+        "discount": 21
     }
 ]
